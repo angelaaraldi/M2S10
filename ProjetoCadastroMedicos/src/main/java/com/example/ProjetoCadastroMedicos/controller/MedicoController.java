@@ -12,7 +12,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/medicos")
+@RequestMapping("/medico")
 public class MedicoController {
     private final MedicoService medicoService;
     public MedicoController(MedicoService medicoService) {
