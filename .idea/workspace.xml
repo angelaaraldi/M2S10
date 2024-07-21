@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61d7dcf7-07cf-4479-af2f-f82c5ccbce22" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/src/main/java/com/example/ProjetoCadastroMedicos/ProjetoCadastroMedicosApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/src/main/java/com/example/ProjetoCadastroMedicos/controller/MedicoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/src/main/java/com/example/ProjetoCadastroMedicos/controller/dto/ErroValidacaoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/src/main/java/com/example/ProjetoCadastroMedicos/controller/dto/MedicoGetRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/src/main/java/com/example/ProjetoCadastroMedicos/controller/dto/MedicoGetResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/src/main/java/com/example/ProjetoCadastroMedicos/controller/dto/MedicoRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/src/main/java/com/example/ProjetoCadastroMedicos/controller/dto/MedicoResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/src/main/java/com/example/ProjetoCadastroMedicos/entity/MedicoEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/src/main/java/com/example/ProjetoCadastroMedicos/enums/Especialidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/src/main/java/com/example/ProjetoCadastroMedicos/exceptions/TratadorDeErros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/src/main/java/com/example/ProjetoCadastroMedicos/repository/MedicoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/src/main/java/com/example/ProjetoCadastroMedicos/service/MedicoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetoCadastroMedicos/src/test/java/com/example/ProjetoCadastroMedicos/ProjetoCadastroMedicosApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2jXGQiKkKME2k7PE37EvarcLYm7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/Documents/GitHub/M2S10"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\GitHub\M2S10" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61d7dcf7-07cf-4479-af2f-f82c5ccbce22" name="Changes" comment="" />
+      <created>1721525993948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721525993948</updated>
+    </task>
+    <servers />
+  </component>
+</project>
